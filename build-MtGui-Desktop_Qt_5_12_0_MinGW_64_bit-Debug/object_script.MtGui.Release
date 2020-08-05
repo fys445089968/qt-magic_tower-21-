@@ -1,0 +1,12 @@
+release/main.o
+release/mainwindow.o
+release/monsterinfolist.o
+release/monsterinfolistitem.o
+release/mt.o
+release/storewindow.o
+release/variables.o
+release/qrc_mtgraphics.o
+release/moc_mainwindow.o
+release/moc_monsterinfolist.o
+release/moc_monsterinfolistitem.o
+release/moc_storewindow.o

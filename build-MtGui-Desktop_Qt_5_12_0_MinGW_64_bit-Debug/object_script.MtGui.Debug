@@ -1,0 +1,12 @@
+debug/main.o
+debug/mainwindow.o
+debug/monsterinfolist.o
+debug/monsterinfolistitem.o
+debug/mt.o
+debug/storewindow.o
+debug/variables.o
+debug/qrc_mtgraphics.o
+debug/moc_mainwindow.o
+debug/moc_monsterinfolist.o
+debug/moc_monsterinfolistitem.o
+debug/moc_storewindow.o
