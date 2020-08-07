@@ -7,3 +7,5 @@ qt写的完全还原魔塔21层加3层隐藏层，基于qtcreator4.8.0，qt5.12.
 
 在variables.h文件中修改初始属性，战斗时间等。
 
+参考自：https://github.com/HaloOrangeWang/MtForCpp
+
